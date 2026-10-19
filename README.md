@@ -91,5 +91,4 @@ main.py      → point d'entrée (menu interactif)
 
 - Licence : MIT
 - Auteur : Ange
-- Repo : [lien GitHub]
-# -Dividend-Strategy
+- Repo : [[lien GitHub]](https://github.com/malitez/-Dividend-Strategy)
